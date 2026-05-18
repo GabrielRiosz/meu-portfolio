@@ -1,44 +1,16 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfólio de Bootcamp | Gabriel Rios</title>
-    <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f6f9; color: #333; margin: 0; padding: 20px; }
-        .container { max-width: 800px; margin: 40px auto; background: white; padding: 30px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
-        h1 { color: #0056b3; margin-bottom: 5px; }
-        .subtitle { font-size: 1.2em; color: #666; margin-bottom: 20px; border-bottom: 2px solid #0056b3; padding-bottom: 10px; }
-        h2 { color: #333; margin-top: 25px; }
-        p { line-height: 1.6; }
-        ul { line-height: 1.8; }
-        .btn { display: inline-block; background-color: #0077b5; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; margin-top: 15px; }
-        .btn:hover { background-color: #0056b3; }
-    </style>
-</head>
-<body>
+# 📁 Repositório Central de Portfólio - Bootcamp
+### Aluno: Gabriel Rios
 
-    <div class="container">
-        <h1>Gabriel Rios</h1>
-        <div class="subtitle">Estudante de Tecnologia | Aluno de Bootcamp</div>
+Este repositório foi desenvolvido por **Gabriel Rios** como parte das atividades práticas do **Bootcamp**, com o objetivo de consolidar competências essenciais em controle de versão, arquitetura de repositórios e publicação contínua.
 
-        <h2>Sobre Mim</h2>
-        <p>Olá! Seja bem-vindo ao meu portfólio central. Atualmente sou estudante de tecnologia e este espaço foi desenvolvido durante as atividades práticas do meu <strong>Bootcamp</strong> para consolidar competências essenciais em controle de versão, arquitetura de repositórios e publicação contínua.</p>
+## 🛠️ Tecnologias Utilizadas
+* **Git**: Controle de versão local.
+* **GitHub**: Hospedagem do repositório remoto na nuvem.
+* **GitHub Pages**: Deploy e hospedagem contínua da página web.
+* **HTML5 / CSS3**: Estruturação e estilização da interface do portfólio.
 
-        <h2>Objetivos Acadêmicos e Profissionais</h2>
-        <p>Meu foco está no desenvolvimento de habilidades técnicas e práticas voltadas para o mercado de desenvolvimento de software, utilizando este ecossistema para centralizar e documentar minha evolução e futuros projetos.</p>
-
-        <h2>Estrutura do Repositório</h2>
-        <ul>
-            <li><strong>Projetos Acadêmicos:</strong> Desafios e códigos desenvolvidos no ambiente de aprendizado.</li>
-            <li><strong>Projetos Pessoais:</strong> Laboratórios e estudos autônomos de novas tecnologias.</li>
-            <li><strong>Documentação:</strong> Relatórios e materiais complementares das entregas.</li>
-        </ul>
-
-        <h2>Conecte-se Comigo</h2>
-        <p>Você pode acompanhar minha evolução profissional e acadêmica diretamente através do meu perfil do LinkedIn:</p>
-        <a href="https://www.linkedin.com" target="_blank" class="btn">Meu Perfil no LinkedIn</a>
-    </div>
-
-</body>
-</html>
+## 📂 Organização do Ecossistema
+* `projetos-academicos/`: Projetos, códigos e desafios desenvolvidos por Gabriel Rios no ambiente de aprendizagem.
+* `projetos-pessoais/`: Laboratórios e estudos autônomos de novas tecnologias.
+* `documentacao/`: Relatórios, arquivos complementares e apresentações técnicas.
+* `index.html`: Página principal do portfólio contendo as informações profissionais do aluno.
